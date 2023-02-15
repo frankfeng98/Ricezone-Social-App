@@ -4,6 +4,6 @@ This is a social application created for Rice student using JavaScript, React, R
 
 ## How to use
 Here is the link to the website: https://scintillating-beginner.surge.sh
-Here is a test user information:
-username: frank
+Here is a test user information: <br>
+username: frank <br>
 password: 123
